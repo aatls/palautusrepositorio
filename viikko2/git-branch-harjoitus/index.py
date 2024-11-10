@@ -1,5 +1,3 @@
-     
-
 # tehdään alussa importit
 
 from logger import logger
